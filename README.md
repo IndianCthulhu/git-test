@@ -1,2 +1,2 @@
 # git-test
-Testing git and github using linux terminal
+Testing the git
